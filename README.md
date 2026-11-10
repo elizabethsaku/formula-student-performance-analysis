@@ -1,26 +1,70 @@
-# What separates top Formula Student Germany teams? (FSG 2026)
+# What Separates Top Formula Student Germany Teams? — FSG 2026
 
-Analysis of the official FSG 2026 overall results (80 teams) with a benchmark of Schanzer Racing (THI).
-Source: official results PDF, formulastudent.de/fsg/results/2026
+An analysis of the official Formula Student Germany (FSG) 2026 overall results, covering **80 teams**, with a performance benchmark of **Schanzer Racing (THI)**.
 
-## Key findings
-- Only 28/80 teams finished endurance; finishers averaged ~464 points vs ~228 for non-finishers. All top-10 teams finished.
-- Top-10 teams average ~494 dynamic vs ~238 static points; teams ranked 11-30 are roughly balanced.
-- Autocross is the strongest single predictor of final rank (Spearman rho 0.85).
-- Schanzer: largest gaps to mid-table are cost (~54 pts), business plan (~27), skidpad (~23), acceleration (~21).
+The project explores which competition events are most associated with overall team performance, how top teams differ from the rest of the field, and where Schanzer Racing has the greatest opportunities to improve.
 
-## Structure
-- `data/` cleaned results (wide, enriched, long format for BI)
-- `python/` parsing, analysis (pandas/scipy), SQLite loader
-- `sql/` analysis queries
-- `powerbi/` dashboard build steps and DAX
+**Data source:** [Official FSG Results 2026](https://www.formulastudent.de/fsg/results/2026)
 
-## Run
+## Key Findings
+
+- **Endurance makes a major difference:** Only 28 of 80 teams finished endurance. Finishers averaged approximately 464 points, compared with 228 points for non-finishers. All top-10 teams completed endurance.
+- **Top teams excel in dynamic events:** The top 10 averaged approximately 494 dynamic points and 238 static points. Teams ranked 11–30 had a more balanced performance.
+- **Autocross has the strongest rank association:** It showed the strongest relationship with final ranking among the events analysed (Spearman's ρ ≈ 0.85).
+- **Schanzer Racing's improvement opportunities:** Compared with mid-table teams, the largest approximate point gaps were in Cost (54 points), Business Plan (27), Skidpad (23), and Acceleration (21).
+
+## Tools and Technologies
+
+- **Python:** Data processing and analysis using pandas and SciPy.
+- **SQL / SQLite:** Structured data storage and analytical queries.
+- **Power BI:** Dashboard development (build instructions and DAX measures included).
+
+## Repository Structure
+
+```text
+├── data/
+│   ├── Cleaned results
+│   ├── Enriched results
+│   └── Long-format data for BI
+├── python/
+│   ├── parse.py
+│   ├── analyze.py
+│   └── load_to_sqlite.py
+├── sql/
+│   └── 02_analysis.sql
+├── powerbi/
+│   └── POWERBI_STEPS.md
+└── README.md
 ```
+
+## How to Run
+
+Install the required Python libraries:
+
+```bash
 pip install pandas scipy
+```
+
+Run the analysis:
+
+```bash
 python python/analyze.py
+```
+
+Load the data into SQLite:
+
+```bash
 python python/load_to_sqlite.py
 ```
 
 ## Limitations
-Single event; association not causation; transcribed from PDF (spot-check recommended). Dynamic points are part of the total, so their correlation with rank is partly structural.
+
+- The analysis covers a single FSG event (2026), so findings may not generalise to other seasons.
+- Correlation does not establish causation.
+- Dynamic event points contribute to the overall score, so their relationship with final ranking is partly structural.
+- Results were transcribed from the official PDF; spot-checking against the original source is recommended.
+
+## Project Objective
+
+The goal is to use data analytics to turn competition results into actionable insights: identifying performance patterns, comparing teams, and highlighting areas where teams can improve.
+
