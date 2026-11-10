@@ -68,3 +68,16 @@ python python/load_to_sqlite.py
 
 The goal is to use data analytics to turn competition results into actionable insights: identifying performance patterns, comparing teams, and highlighting areas where teams can improve.
 
+## Interactive Tableau Dashboard
+
+Explore the FSG 2026 competition results through an interactive Tableau dashboard.
+
+**[View the FSG 2026 Performance Dashboard on Tableau Public](https://public.tableau.com/app/profile/elizabeth.saku/viz/FSG2026FormulaStudentPerformanceAnalysis/FSG2026PerformanceDashboard)**
+
+The dashboard includes:
+- Overall team rankings, highlighting Schanzer Racing
+- Average static vs. dynamic points by ranking tier
+- Endurance completion and average total points
+- Autocross performance vs. overall ranking
+
+Interactive filtering allows users to explore performance differences across competition tiers.
