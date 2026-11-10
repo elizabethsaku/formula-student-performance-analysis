@@ -1,0 +1,641 @@
+rank,team,country,tier,is_schanzer,discipline,points,type
+1,Zürich ETH,CH,Top 10,0,cost,80.0,Static
+2,Aachen RWTH,DE,Top 10,0,cost,70.0,Static
+3,Trondheim NTNU,NO,Top 10,0,cost,80.0,Static
+4,Göteborg TU Chalmers,SE,Top 10,0,cost,45.0,Static
+5,Karlsruhe IT,DE,Top 10,0,cost,70.0,Static
+6,Dortmund TU,DE,Top 10,0,cost,15.0,Static
+7,Ravensburg DHBW,DE,Top 10,0,cost,50.0,Static
+8,Wolfenbüttel UAS Ostfalia,DE,Top 10,0,cost,65.0,Static
+9,Stuttgart U,DE,Top 10,0,cost,65.0,Static
+10,Milano PT,IT,Top 10,0,cost,80.0,Static
+11,Karlsruhe UAS,DE,11-30,0,cost,60.0,Static
+12,Esslingen UAS,DE,11-30,0,cost,95.0,Static
+13,München TU,DE,11-30,0,cost,75.0,Static
+14,Wien TU,AT,11-30,0,cost,65.0,Static
+15,Tallinn TU UAS,EE,11-30,0,cost,65.0,Static
+16,Lisboa IST,PT,11-30,0,cost,65.0,Static
+17,Prague CTU,CZ,11-30,0,cost,70.0,Static
+18,Amberg OTH,DE,11-30,0,cost,70.0,Static
+19,Wrocław TU,PL,11-30,0,cost,50.0,Static
+20,Eindhoven TU,NL,11-30,0,cost,55.0,Static
+21,Stuttgart DHBW,DE,11-30,0,cost,87.0,Static
+22,Delft TU,NL,11-30,0,cost,93.0,Static
+23,Barcelona ETSEIB,ES,11-30,0,cost,65.0,Static
+24,Bern UAS,CH,11-30,0,cost,89.0,Static
+25,München UAS,DE,11-30,0,cost,55.0,Static
+26,Lund U,SE,11-30,0,cost,70.0,Static
+27,Hamburg TU,DE,11-30,0,cost,30.0,Static
+28,Sevilla U,ES,11-30,0,cost,75.0,Static
+29,Berlin TU,DE,11-30,0,cost,96.0,Static
+30,Turin PT,IT,11-30,0,cost,40.0,Static
+31,Cluj-Napoca TU,RO,31-80,0,cost,50.0,Static
+32,Hsinchu NTHU,TW,31-80,0,cost,40.0,Static
+33,Plzen UWB,CZ,31-80,0,cost,25.0,Static
+34,Mittweida UAS,DE,31-80,0,cost,60.0,Static
+35,Hannover U,DE,31-80,0,cost,55.0,Static
+36,Linköping U,SE,31-80,0,cost,20.0,Static
+37,Bilbao EHU,ES,31-80,0,cost,70.0,Static
+38,Padova U,IT,31-80,0,cost,55.0,Static
+39,Budapest TU,HU,31-80,0,cost,55.0,Static
+40,Bath U,GB,31-80,0,cost,45.0,Static
+41,Hamburg UAS,DE,31-80,0,cost,75.0,Static
+42,Southampton U,GB,31-80,0,cost,15.0,Static
+43,Ulm UAS,DE,31-80,0,cost,70.0,Static
+44,San Sebastián TECNUN,ES,31-80,0,cost,50.0,Static
+45,Regensburg OTH,DE,31-80,0,cost,60.0,Static
+46,Nürnberg GSO UAS,DE,31-80,0,cost,20.0,Static
+47,Ghent U,BE,31-80,0,cost,65.0,Static
+48,Oxford Brookes U,GB,31-80,0,cost,20.0,Static
+49,Ingolstadt UAS,DE,31-80,1,cost,15.0,Static
+50,Pforzheim U,DE,31-80,0,cost,70.0,Static
+51,Athens TU,GR,31-80,0,cost,55.0,Static
+52,Konstanz UAS,DE,31-80,0,cost,50.0,Static
+53,Terrassa ESEIAAT,ES,31-80,0,cost,40.0,Static
+54,Dresden TU,DE,31-80,0,cost,60.0,Static
+55,Thessaloniki U,GR,31-80,0,cost,45.0,Static
+56,Osnabrück UAS,DE,31-80,0,cost,45.0,Static
+57,Diepholz UAS,DE,31-80,0,cost,40.0,Static
+58,Mannheim DHBW,DE,31-80,0,cost,60.0,Static
+59,Lübeck TH,DE,31-80,0,cost,55.0,Static
+60,Erlangen U,DE,31-80,0,cost,35.0,Static
+61,Mumbai Somaiya,IN,31-80,0,cost,45.0,Static
+62,Göttingen HAWK,DE,31-80,0,cost,50.0,Static
+63,Chennai IITM,IN,31-80,0,cost,55.0,Static
+64,Sion HES,CH,31-80,0,cost,15.0,Static
+65,Napoli UNINA,IT,31-80,0,cost,30.0,Static
+66,Bochum U,DE,31-80,0,cost,40.0,Static
+67,Trento U,IT,31-80,0,cost,20.0,Static
+68,Düsseldorf HSD,DE,31-80,0,cost,35.0,Static
+69,Braunschweig TU,DE,31-80,0,cost,35.0,Static
+70,Seattle U Washington,US,31-80,0,cost,40.0,Static
+71,Aalen HS,DE,31-80,0,cost,35.0,Static
+72,Coburg UAS,DE,31-80,0,cost,35.0,Static
+73,Landshut UAS,DE,31-80,0,cost,25.0,Static
+74,Gliwice TU,PL,31-80,0,cost,20.0,Static
+75,Brussels VUB,BE,31-80,0,cost,15.0,Static
+76,Warszawa UT,PL,31-80,0,cost,30.0,Static
+77,Freiberg TU,DE,31-80,0,cost,35.0,Static
+78,Helsinki UAS,FI,31-80,0,cost,15.0,Static
+79,Bayreuth U,DE,31-80,0,cost,0.0,Static
+79,Kaiserslautern RPTU,DE,31-80,0,cost,0.0,Static
+1,Zürich ETH,CH,Top 10,0,bp,69.5,Static
+2,Aachen RWTH,DE,Top 10,0,bp,57.1,Static
+3,Trondheim NTNU,NO,Top 10,0,bp,75.0,Static
+4,Göteborg TU Chalmers,SE,Top 10,0,bp,58.6,Static
+5,Karlsruhe IT,DE,Top 10,0,bp,58.8,Static
+6,Dortmund TU,DE,Top 10,0,bp,58.5,Static
+7,Ravensburg DHBW,DE,Top 10,0,bp,64.1,Static
+8,Wolfenbüttel UAS Ostfalia,DE,Top 10,0,bp,56.3,Static
+9,Stuttgart U,DE,Top 10,0,bp,65.1,Static
+10,Milano PT,IT,Top 10,0,bp,68.3,Static
+11,Karlsruhe UAS,DE,11-30,0,bp,70.0,Static
+12,Esslingen UAS,DE,11-30,0,bp,68.9,Static
+13,München TU,DE,11-30,0,bp,59.6,Static
+14,Wien TU,AT,11-30,0,bp,64.9,Static
+15,Tallinn TU UAS,EE,11-30,0,bp,58.8,Static
+16,Lisboa IST,PT,11-30,0,bp,53.8,Static
+17,Prague CTU,CZ,11-30,0,bp,52.7,Static
+18,Amberg OTH,DE,11-30,0,bp,55.5,Static
+19,Wrocław TU,PL,11-30,0,bp,74.0,Static
+20,Eindhoven TU,NL,11-30,0,bp,61.6,Static
+21,Stuttgart DHBW,DE,11-30,0,bp,52.9,Static
+22,Delft TU,NL,11-30,0,bp,73.0,Static
+23,Barcelona ETSEIB,ES,11-30,0,bp,49.4,Static
+24,Bern UAS,CH,11-30,0,bp,61.1,Static
+25,München UAS,DE,11-30,0,bp,66.9,Static
+26,Lund U,SE,11-30,0,bp,58.9,Static
+27,Hamburg TU,DE,11-30,0,bp,57.6,Static
+28,Sevilla U,ES,11-30,0,bp,69.7,Static
+29,Berlin TU,DE,11-30,0,bp,64.6,Static
+30,Turin PT,IT,11-30,0,bp,54.6,Static
+31,Cluj-Napoca TU,RO,31-80,0,bp,46.8,Static
+32,Hsinchu NTHU,TW,31-80,0,bp,53.7,Static
+33,Plzen UWB,CZ,31-80,0,bp,52.4,Static
+34,Mittweida UAS,DE,31-80,0,bp,39.9,Static
+35,Hannover U,DE,31-80,0,bp,43.4,Static
+36,Linköping U,SE,31-80,0,bp,52.1,Static
+37,Bilbao EHU,ES,31-80,0,bp,64.7,Static
+38,Padova U,IT,31-80,0,bp,68.1,Static
+39,Budapest TU,HU,31-80,0,bp,54.4,Static
+40,Bath U,GB,31-80,0,bp,44.7,Static
+41,Hamburg UAS,DE,31-80,0,bp,50.1,Static
+42,Southampton U,GB,31-80,0,bp,49.6,Static
+43,Ulm UAS,DE,31-80,0,bp,48.9,Static
+44,San Sebastián TECNUN,ES,31-80,0,bp,47.9,Static
+45,Regensburg OTH,DE,31-80,0,bp,52.4,Static
+46,Nürnberg GSO UAS,DE,31-80,0,bp,34.6,Static
+47,Ghent U,BE,31-80,0,bp,57.0,Static
+48,Oxford Brookes U,GB,31-80,0,bp,69.4,Static
+49,Ingolstadt UAS,DE,31-80,1,bp,34.2,Static
+50,Pforzheim U,DE,31-80,0,bp,49.4,Static
+51,Athens TU,GR,31-80,0,bp,63.8,Static
+52,Konstanz UAS,DE,31-80,0,bp,63.1,Static
+53,Terrassa ESEIAAT,ES,31-80,0,bp,53.7,Static
+54,Dresden TU,DE,31-80,0,bp,49.7,Static
+55,Thessaloniki U,GR,31-80,0,bp,46.9,Static
+56,Osnabrück UAS,DE,31-80,0,bp,38.9,Static
+57,Diepholz UAS,DE,31-80,0,bp,30.8,Static
+58,Mannheim DHBW,DE,31-80,0,bp,57.3,Static
+59,Lübeck TH,DE,31-80,0,bp,47.5,Static
+60,Erlangen U,DE,31-80,0,bp,49.7,Static
+61,Mumbai Somaiya,IN,31-80,0,bp,51.0,Static
+62,Göttingen HAWK,DE,31-80,0,bp,42.4,Static
+63,Chennai IITM,IN,31-80,0,bp,51.0,Static
+64,Sion HES,CH,31-80,0,bp,52.0,Static
+65,Napoli UNINA,IT,31-80,0,bp,39.6,Static
+66,Bochum U,DE,31-80,0,bp,32.2,Static
+67,Trento U,IT,31-80,0,bp,63.6,Static
+68,Düsseldorf HSD,DE,31-80,0,bp,62.7,Static
+69,Braunschweig TU,DE,31-80,0,bp,46.0,Static
+70,Seattle U Washington,US,31-80,0,bp,36.1,Static
+71,Aalen HS,DE,31-80,0,bp,38.8,Static
+72,Coburg UAS,DE,31-80,0,bp,35.6,Static
+73,Landshut UAS,DE,31-80,0,bp,33.2,Static
+74,Gliwice TU,PL,31-80,0,bp,42.5,Static
+75,Brussels VUB,BE,31-80,0,bp,39.4,Static
+76,Warszawa UT,PL,31-80,0,bp,51.5,Static
+77,Freiberg TU,DE,31-80,0,bp,47.8,Static
+78,Helsinki UAS,FI,31-80,0,bp,42.5,Static
+79,Bayreuth U,DE,31-80,0,bp,0.0,Static
+79,Kaiserslautern RPTU,DE,31-80,0,bp,31.0,Static
+1,Zürich ETH,CH,Top 10,0,design,149.0,Static
+2,Aachen RWTH,DE,Top 10,0,design,115.0,Static
+3,Trondheim NTNU,NO,Top 10,0,design,105.0,Static
+4,Göteborg TU Chalmers,SE,Top 10,0,design,130.0,Static
+5,Karlsruhe IT,DE,Top 10,0,design,120.0,Static
+6,Dortmund TU,DE,Top 10,0,design,90.0,Static
+7,Ravensburg DHBW,DE,Top 10,0,design,90.0,Static
+8,Wolfenbüttel UAS Ostfalia,DE,Top 10,0,design,80.0,Static
+9,Stuttgart U,DE,Top 10,0,design,139.0,Static
+10,Milano PT,IT,Top 10,0,design,110.0,Static
+11,Karlsruhe UAS,DE,11-30,0,design,90.0,Static
+12,Esslingen UAS,DE,11-30,0,design,95.0,Static
+13,München TU,DE,11-30,0,design,150.0,Static
+14,Wien TU,AT,11-30,0,design,70.0,Static
+15,Tallinn TU UAS,EE,11-30,0,design,120.0,Static
+16,Lisboa IST,PT,11-30,0,design,105.0,Static
+17,Prague CTU,CZ,11-30,0,design,105.0,Static
+18,Amberg OTH,DE,11-30,0,design,85.0,Static
+19,Wrocław TU,PL,11-30,0,design,70.0,Static
+20,Eindhoven TU,NL,11-30,0,design,100.0,Static
+21,Stuttgart DHBW,DE,11-30,0,design,95.0,Static
+22,Delft TU,NL,11-30,0,design,105.0,Static
+23,Barcelona ETSEIB,ES,11-30,0,design,100.0,Static
+24,Bern UAS,CH,11-30,0,design,85.0,Static
+25,München UAS,DE,11-30,0,design,95.0,Static
+26,Lund U,SE,11-30,0,design,70.0,Static
+27,Hamburg TU,DE,11-30,0,design,65.0,Static
+28,Sevilla U,ES,11-30,0,design,90.0,Static
+29,Berlin TU,DE,11-30,0,design,75.0,Static
+30,Turin PT,IT,11-30,0,design,70.0,Static
+31,Cluj-Napoca TU,RO,31-80,0,design,65.0,Static
+32,Hsinchu NTHU,TW,31-80,0,design,65.0,Static
+33,Plzen UWB,CZ,31-80,0,design,50.0,Static
+34,Mittweida UAS,DE,31-80,0,design,50.0,Static
+35,Hannover U,DE,31-80,0,design,65.0,Static
+36,Linköping U,SE,31-80,0,design,70.0,Static
+37,Bilbao EHU,ES,31-80,0,design,65.0,Static
+38,Padova U,IT,31-80,0,design,85.0,Static
+39,Budapest TU,HU,31-80,0,design,85.0,Static
+40,Bath U,GB,31-80,0,design,70.0,Static
+41,Hamburg UAS,DE,31-80,0,design,70.0,Static
+42,Southampton U,GB,31-80,0,design,70.0,Static
+43,Ulm UAS,DE,31-80,0,design,80.0,Static
+44,San Sebastián TECNUN,ES,31-80,0,design,65.0,Static
+45,Regensburg OTH,DE,31-80,0,design,75.0,Static
+46,Nürnberg GSO UAS,DE,31-80,0,design,65.0,Static
+47,Ghent U,BE,31-80,0,design,75.0,Static
+48,Oxford Brookes U,GB,31-80,0,design,95.0,Static
+49,Ingolstadt UAS,DE,31-80,1,design,70.0,Static
+50,Pforzheim U,DE,31-80,0,design,50.0,Static
+51,Athens TU,GR,31-80,0,design,75.0,Static
+52,Konstanz UAS,DE,31-80,0,design,60.0,Static
+53,Terrassa ESEIAAT,ES,31-80,0,design,60.0,Static
+54,Dresden TU,DE,31-80,0,design,95.0,Static
+55,Thessaloniki U,GR,31-80,0,design,70.0,Static
+56,Osnabrück UAS,DE,31-80,0,design,55.0,Static
+57,Diepholz UAS,DE,31-80,0,design,40.0,Static
+58,Mannheim DHBW,DE,31-80,0,design,60.0,Static
+59,Lübeck TH,DE,31-80,0,design,55.0,Static
+60,Erlangen U,DE,31-80,0,design,70.0,Static
+61,Mumbai Somaiya,IN,31-80,0,design,60.0,Static
+62,Göttingen HAWK,DE,31-80,0,design,50.0,Static
+63,Chennai IITM,IN,31-80,0,design,50.0,Static
+64,Sion HES,CH,31-80,0,design,30.0,Static
+65,Napoli UNINA,IT,31-80,0,design,70.0,Static
+66,Bochum U,DE,31-80,0,design,40.0,Static
+67,Trento U,IT,31-80,0,design,75.0,Static
+68,Düsseldorf HSD,DE,31-80,0,design,40.0,Static
+69,Braunschweig TU,DE,31-80,0,design,50.0,Static
+70,Seattle U Washington,US,31-80,0,design,90.0,Static
+71,Aalen HS,DE,31-80,0,design,40.0,Static
+72,Coburg UAS,DE,31-80,0,design,40.0,Static
+73,Landshut UAS,DE,31-80,0,design,55.0,Static
+74,Gliwice TU,PL,31-80,0,design,40.0,Static
+75,Brussels VUB,BE,31-80,0,design,50.0,Static
+76,Warszawa UT,PL,31-80,0,design,40.0,Static
+77,Freiberg TU,DE,31-80,0,design,25.0,Static
+78,Helsinki UAS,FI,31-80,0,design,30.0,Static
+79,Bayreuth U,DE,31-80,0,design,0.0,Static
+79,Kaiserslautern RPTU,DE,31-80,0,design,10.0,Static
+1,Zürich ETH,CH,Top 10,0,accel,49.84,Dynamic
+2,Aachen RWTH,DE,Top 10,0,accel,50.0,Dynamic
+3,Trondheim NTNU,NO,Top 10,0,accel,43.4,Dynamic
+4,Göteborg TU Chalmers,SE,Top 10,0,accel,44.0,Dynamic
+5,Karlsruhe IT,DE,Top 10,0,accel,45.29,Dynamic
+6,Dortmund TU,DE,Top 10,0,accel,39.35,Dynamic
+7,Ravensburg DHBW,DE,Top 10,0,accel,36.33,Dynamic
+8,Wolfenbüttel UAS Ostfalia,DE,Top 10,0,accel,41.04,Dynamic
+9,Stuttgart U,DE,Top 10,0,accel,47.07,Dynamic
+10,Milano PT,IT,Top 10,0,accel,45.4,Dynamic
+11,Karlsruhe UAS,DE,11-30,0,accel,47.22,Dynamic
+12,Esslingen UAS,DE,11-30,0,accel,48.48,Dynamic
+13,München TU,DE,11-30,0,accel,46.64,Dynamic
+14,Wien TU,AT,11-30,0,accel,0.0,Dynamic
+15,Tallinn TU UAS,EE,11-30,0,accel,44.07,Dynamic
+16,Lisboa IST,PT,11-30,0,accel,30.03,Dynamic
+17,Prague CTU,CZ,11-30,0,accel,34.39,Dynamic
+18,Amberg OTH,DE,11-30,0,accel,40.46,Dynamic
+19,Wrocław TU,PL,11-30,0,accel,39.67,Dynamic
+20,Eindhoven TU,NL,11-30,0,accel,38.19,Dynamic
+21,Stuttgart DHBW,DE,11-30,0,accel,48.44,Dynamic
+22,Delft TU,NL,11-30,0,accel,48.56,Dynamic
+23,Barcelona ETSEIB,ES,11-30,0,accel,43.96,Dynamic
+24,Bern UAS,CH,11-30,0,accel,44.15,Dynamic
+25,München UAS,DE,11-30,0,accel,43.7,Dynamic
+26,Lund U,SE,11-30,0,accel,24.15,Dynamic
+27,Hamburg TU,DE,11-30,0,accel,41.15,Dynamic
+28,Sevilla U,ES,11-30,0,accel,31.74,Dynamic
+29,Berlin TU,DE,11-30,0,accel,43.4,Dynamic
+30,Turin PT,IT,11-30,0,accel,41.88,Dynamic
+31,Cluj-Napoca TU,RO,31-80,0,accel,0.0,Dynamic
+32,Hsinchu NTHU,TW,31-80,0,accel,10.57,Dynamic
+33,Plzen UWB,CZ,31-80,0,accel,25.54,Dynamic
+34,Mittweida UAS,DE,31-80,0,accel,13.92,Dynamic
+35,Hannover U,DE,31-80,0,accel,35.62,Dynamic
+36,Linköping U,SE,31-80,0,accel,17.96,Dynamic
+37,Bilbao EHU,ES,31-80,0,accel,0.0,Dynamic
+38,Padova U,IT,31-80,0,accel,0.0,Dynamic
+39,Budapest TU,HU,31-80,0,accel,33.9,Dynamic
+40,Bath U,GB,31-80,0,accel,2.5,Dynamic
+41,Hamburg UAS,DE,31-80,0,accel,0.0,Dynamic
+42,Southampton U,GB,31-80,0,accel,8.47,Dynamic
+43,Ulm UAS,DE,31-80,0,accel,27.1,Dynamic
+44,San Sebastián TECNUN,ES,31-80,0,accel,13.68,Dynamic
+45,Regensburg OTH,DE,31-80,0,accel,24.59,Dynamic
+46,Nürnberg GSO UAS,DE,31-80,0,accel,33.99,Dynamic
+47,Ghent U,BE,31-80,0,accel,15.51,Dynamic
+48,Oxford Brookes U,GB,31-80,0,accel,15.53,Dynamic
+49,Ingolstadt UAS,DE,31-80,1,accel,20.02,Dynamic
+50,Pforzheim U,DE,31-80,0,accel,26.16,Dynamic
+51,Athens TU,GR,31-80,0,accel,20.27,Dynamic
+52,Konstanz UAS,DE,31-80,0,accel,38.4,Dynamic
+53,Terrassa ESEIAAT,ES,31-80,0,accel,8.11,Dynamic
+54,Dresden TU,DE,31-80,0,accel,0.0,Dynamic
+55,Thessaloniki U,GR,31-80,0,accel,7.82,Dynamic
+56,Osnabrück UAS,DE,31-80,0,accel,29.81,Dynamic
+57,Diepholz UAS,DE,31-80,0,accel,20.0,Dynamic
+58,Mannheim DHBW,DE,31-80,0,accel,0.0,Dynamic
+59,Lübeck TH,DE,31-80,0,accel,2.5,Dynamic
+60,Erlangen U,DE,31-80,0,accel,2.5,Dynamic
+61,Mumbai Somaiya,IN,31-80,0,accel,0.0,Dynamic
+62,Göttingen HAWK,DE,31-80,0,accel,2.5,Dynamic
+63,Chennai IITM,IN,31-80,0,accel,0.0,Dynamic
+64,Sion HES,CH,31-80,0,accel,28.96,Dynamic
+65,Napoli UNINA,IT,31-80,0,accel,0.0,Dynamic
+66,Bochum U,DE,31-80,0,accel,7.74,Dynamic
+67,Trento U,IT,31-80,0,accel,0.0,Dynamic
+68,Düsseldorf HSD,DE,31-80,0,accel,5.91,Dynamic
+69,Braunschweig TU,DE,31-80,0,accel,0.0,Dynamic
+70,Seattle U Washington,US,31-80,0,accel,0.0,Dynamic
+71,Aalen HS,DE,31-80,0,accel,0.0,Dynamic
+72,Coburg UAS,DE,31-80,0,accel,0.0,Dynamic
+73,Landshut UAS,DE,31-80,0,accel,10.16,Dynamic
+74,Gliwice TU,PL,31-80,0,accel,0.0,Dynamic
+75,Brussels VUB,BE,31-80,0,accel,0.0,Dynamic
+76,Warszawa UT,PL,31-80,0,accel,0.0,Dynamic
+77,Freiberg TU,DE,31-80,0,accel,0.0,Dynamic
+78,Helsinki UAS,FI,31-80,0,accel,0.0,Dynamic
+79,Bayreuth U,DE,31-80,0,accel,0.0,Dynamic
+79,Kaiserslautern RPTU,DE,31-80,0,accel,0.0,Dynamic
+1,Zürich ETH,CH,Top 10,0,skidpad,45.66,Dynamic
+2,Aachen RWTH,DE,Top 10,0,skidpad,40.21,Dynamic
+3,Trondheim NTNU,NO,Top 10,0,skidpad,41.91,Dynamic
+4,Göteborg TU Chalmers,SE,Top 10,0,skidpad,12.16,Dynamic
+5,Karlsruhe IT,DE,Top 10,0,skidpad,30.49,Dynamic
+6,Dortmund TU,DE,Top 10,0,skidpad,34.88,Dynamic
+7,Ravensburg DHBW,DE,Top 10,0,skidpad,40.91,Dynamic
+8,Wolfenbüttel UAS Ostfalia,DE,Top 10,0,skidpad,22.93,Dynamic
+9,Stuttgart U,DE,Top 10,0,skidpad,31.88,Dynamic
+10,Milano PT,IT,Top 10,0,skidpad,19.35,Dynamic
+11,Karlsruhe UAS,DE,11-30,0,skidpad,26.75,Dynamic
+12,Esslingen UAS,DE,11-30,0,skidpad,0.0,Dynamic
+13,München TU,DE,11-30,0,skidpad,50.0,Dynamic
+14,Wien TU,AT,11-30,0,skidpad,25.66,Dynamic
+15,Tallinn TU UAS,EE,11-30,0,skidpad,21.49,Dynamic
+16,Lisboa IST,PT,11-30,0,skidpad,34.26,Dynamic
+17,Prague CTU,CZ,11-30,0,skidpad,34.14,Dynamic
+18,Amberg OTH,DE,11-30,0,skidpad,0.0,Dynamic
+19,Wrocław TU,PL,11-30,0,skidpad,33.08,Dynamic
+20,Eindhoven TU,NL,11-30,0,skidpad,32.97,Dynamic
+21,Stuttgart DHBW,DE,11-30,0,skidpad,21.07,Dynamic
+22,Delft TU,NL,11-30,0,skidpad,36.06,Dynamic
+23,Barcelona ETSEIB,ES,11-30,0,skidpad,30.84,Dynamic
+24,Bern UAS,CH,11-30,0,skidpad,37.97,Dynamic
+25,München UAS,DE,11-30,0,skidpad,33.36,Dynamic
+26,Lund U,SE,11-30,0,skidpad,2.5,Dynamic
+27,Hamburg TU,DE,11-30,0,skidpad,23.93,Dynamic
+28,Sevilla U,ES,11-30,0,skidpad,20.23,Dynamic
+29,Berlin TU,DE,11-30,0,skidpad,20.69,Dynamic
+30,Turin PT,IT,11-30,0,skidpad,19.73,Dynamic
+31,Cluj-Napoca TU,RO,31-80,0,skidpad,0.0,Dynamic
+32,Hsinchu NTHU,TW,31-80,0,skidpad,19.77,Dynamic
+33,Plzen UWB,CZ,31-80,0,skidpad,13.51,Dynamic
+34,Mittweida UAS,DE,31-80,0,skidpad,9.34,Dynamic
+35,Hannover U,DE,31-80,0,skidpad,22.27,Dynamic
+36,Linköping U,SE,31-80,0,skidpad,0.0,Dynamic
+37,Bilbao EHU,ES,31-80,0,skidpad,18.05,Dynamic
+38,Padova U,IT,31-80,0,skidpad,0.0,Dynamic
+39,Budapest TU,HU,31-80,0,skidpad,8.35,Dynamic
+40,Bath U,GB,31-80,0,skidpad,0.0,Dynamic
+41,Hamburg UAS,DE,31-80,0,skidpad,19.27,Dynamic
+42,Southampton U,GB,31-80,0,skidpad,0.0,Dynamic
+43,Ulm UAS,DE,31-80,0,skidpad,5.16,Dynamic
+44,San Sebastián TECNUN,ES,31-80,0,skidpad,14.41,Dynamic
+45,Regensburg OTH,DE,31-80,0,skidpad,3.37,Dynamic
+46,Nürnberg GSO UAS,DE,31-80,0,skidpad,37.69,Dynamic
+47,Ghent U,BE,31-80,0,skidpad,12.33,Dynamic
+48,Oxford Brookes U,GB,31-80,0,skidpad,0.0,Dynamic
+49,Ingolstadt UAS,DE,31-80,1,skidpad,2.5,Dynamic
+50,Pforzheim U,DE,31-80,0,skidpad,2.58,Dynamic
+51,Athens TU,GR,31-80,0,skidpad,0.0,Dynamic
+52,Konstanz UAS,DE,31-80,0,skidpad,18.41,Dynamic
+53,Terrassa ESEIAAT,ES,31-80,0,skidpad,2.5,Dynamic
+54,Dresden TU,DE,31-80,0,skidpad,0.0,Dynamic
+55,Thessaloniki U,GR,31-80,0,skidpad,5.76,Dynamic
+56,Osnabrück UAS,DE,31-80,0,skidpad,2.5,Dynamic
+57,Diepholz UAS,DE,31-80,0,skidpad,0.0,Dynamic
+58,Mannheim DHBW,DE,31-80,0,skidpad,0.0,Dynamic
+59,Lübeck TH,DE,31-80,0,skidpad,0.0,Dynamic
+60,Erlangen U,DE,31-80,0,skidpad,2.5,Dynamic
+61,Mumbai Somaiya,IN,31-80,0,skidpad,0.0,Dynamic
+62,Göttingen HAWK,DE,31-80,0,skidpad,0.0,Dynamic
+63,Chennai IITM,IN,31-80,0,skidpad,0.0,Dynamic
+64,Sion HES,CH,31-80,0,skidpad,6.33,Dynamic
+65,Napoli UNINA,IT,31-80,0,skidpad,0.0,Dynamic
+66,Bochum U,DE,31-80,0,skidpad,2.5,Dynamic
+67,Trento U,IT,31-80,0,skidpad,0.0,Dynamic
+68,Düsseldorf HSD,DE,31-80,0,skidpad,2.5,Dynamic
+69,Braunschweig TU,DE,31-80,0,skidpad,0.0,Dynamic
+70,Seattle U Washington,US,31-80,0,skidpad,0.0,Dynamic
+71,Aalen HS,DE,31-80,0,skidpad,0.0,Dynamic
+72,Coburg UAS,DE,31-80,0,skidpad,0.0,Dynamic
+73,Landshut UAS,DE,31-80,0,skidpad,0.0,Dynamic
+74,Gliwice TU,PL,31-80,0,skidpad,0.0,Dynamic
+75,Brussels VUB,BE,31-80,0,skidpad,0.0,Dynamic
+76,Warszawa UT,PL,31-80,0,skidpad,0.0,Dynamic
+77,Freiberg TU,DE,31-80,0,skidpad,0.0,Dynamic
+78,Helsinki UAS,FI,31-80,0,skidpad,0.0,Dynamic
+79,Bayreuth U,DE,31-80,0,skidpad,0.0,Dynamic
+79,Kaiserslautern RPTU,DE,31-80,0,skidpad,0.0,Dynamic
+1,Zürich ETH,CH,Top 10,0,autox,81.84,Dynamic
+2,Aachen RWTH,DE,Top 10,0,autox,94.75,Dynamic
+3,Trondheim NTNU,NO,Top 10,0,autox,56.34,Dynamic
+4,Göteborg TU Chalmers,SE,Top 10,0,autox,90.95,Dynamic
+5,Karlsruhe IT,DE,Top 10,0,autox,80.9,Dynamic
+6,Dortmund TU,DE,Top 10,0,autox,88.35,Dynamic
+7,Ravensburg DHBW,DE,Top 10,0,autox,62.77,Dynamic
+8,Wolfenbüttel UAS Ostfalia,DE,Top 10,0,autox,54.42,Dynamic
+9,Stuttgart U,DE,Top 10,0,autox,82.76,Dynamic
+10,Milano PT,IT,Top 10,0,autox,70.65,Dynamic
+11,Karlsruhe UAS,DE,11-30,0,autox,58.05,Dynamic
+12,Esslingen UAS,DE,11-30,0,autox,45.27,Dynamic
+13,München TU,DE,11-30,0,autox,87.86,Dynamic
+14,Wien TU,AT,11-30,0,autox,34.02,Dynamic
+15,Tallinn TU UAS,EE,11-30,0,autox,75.92,Dynamic
+16,Lisboa IST,PT,11-30,0,autox,49.04,Dynamic
+17,Prague CTU,CZ,11-30,0,autox,100.0,Dynamic
+18,Amberg OTH,DE,11-30,0,autox,62.39,Dynamic
+19,Wrocław TU,PL,11-30,0,autox,72.15,Dynamic
+20,Eindhoven TU,NL,11-30,0,autox,68.05,Dynamic
+21,Stuttgart DHBW,DE,11-30,0,autox,44.78,Dynamic
+22,Delft TU,NL,11-30,0,autox,46.44,Dynamic
+23,Barcelona ETSEIB,ES,11-30,0,autox,37.08,Dynamic
+24,Bern UAS,CH,11-30,0,autox,59.12,Dynamic
+25,München UAS,DE,11-30,0,autox,10.0,Dynamic
+26,Lund U,SE,11-30,0,autox,26.82,Dynamic
+27,Hamburg TU,DE,11-30,0,autox,0.0,Dynamic
+28,Sevilla U,ES,11-30,0,autox,10.0,Dynamic
+29,Berlin TU,DE,11-30,0,autox,31.5,Dynamic
+30,Turin PT,IT,11-30,0,autox,20.07,Dynamic
+31,Cluj-Napoca TU,RO,31-80,0,autox,29.16,Dynamic
+32,Hsinchu NTHU,TW,31-80,0,autox,46.95,Dynamic
+33,Plzen UWB,CZ,31-80,0,autox,20.04,Dynamic
+34,Mittweida UAS,DE,31-80,0,autox,20.58,Dynamic
+35,Hannover U,DE,31-80,0,autox,13.45,Dynamic
+36,Linköping U,SE,31-80,0,autox,20.84,Dynamic
+37,Bilbao EHU,ES,31-80,0,autox,0.0,Dynamic
+38,Padova U,IT,31-80,0,autox,52.9,Dynamic
+39,Budapest TU,HU,31-80,0,autox,23.1,Dynamic
+40,Bath U,GB,31-80,0,autox,17.07,Dynamic
+41,Hamburg UAS,DE,31-80,0,autox,42.59,Dynamic
+42,Southampton U,GB,31-80,0,autox,22.52,Dynamic
+43,Ulm UAS,DE,31-80,0,autox,38.54,Dynamic
+44,San Sebastián TECNUN,ES,31-80,0,autox,23.33,Dynamic
+45,Regensburg OTH,DE,31-80,0,autox,12.9,Dynamic
+46,Nürnberg GSO UAS,DE,31-80,0,autox,43.46,Dynamic
+47,Ghent U,BE,31-80,0,autox,10.0,Dynamic
+48,Oxford Brookes U,GB,31-80,0,autox,23.67,Dynamic
+49,Ingolstadt UAS,DE,31-80,1,autox,33.79,Dynamic
+50,Pforzheim U,DE,31-80,0,autox,16.83,Dynamic
+51,Athens TU,GR,31-80,0,autox,0.0,Dynamic
+52,Konstanz UAS,DE,31-80,0,autox,0.0,Dynamic
+53,Terrassa ESEIAAT,ES,31-80,0,autox,10.0,Dynamic
+54,Dresden TU,DE,31-80,0,autox,0.0,Dynamic
+55,Thessaloniki U,GR,31-80,0,autox,12.08,Dynamic
+56,Osnabrück UAS,DE,31-80,0,autox,24.88,Dynamic
+57,Diepholz UAS,DE,31-80,0,autox,14.81,Dynamic
+58,Mannheim DHBW,DE,31-80,0,autox,10.0,Dynamic
+59,Lübeck TH,DE,31-80,0,autox,10.0,Dynamic
+60,Erlangen U,DE,31-80,0,autox,0.0,Dynamic
+61,Mumbai Somaiya,IN,31-80,0,autox,12.29,Dynamic
+62,Göttingen HAWK,DE,31-80,0,autox,11.26,Dynamic
+63,Chennai IITM,IN,31-80,0,autox,0.0,Dynamic
+64,Sion HES,CH,31-80,0,autox,10.04,Dynamic
+65,Napoli UNINA,IT,31-80,0,autox,0.0,Dynamic
+66,Bochum U,DE,31-80,0,autox,10.0,Dynamic
+67,Trento U,IT,31-80,0,autox,0.0,Dynamic
+68,Düsseldorf HSD,DE,31-80,0,autox,0.0,Dynamic
+69,Braunschweig TU,DE,31-80,0,autox,0.0,Dynamic
+70,Seattle U Washington,US,31-80,0,autox,10.0,Dynamic
+71,Aalen HS,DE,31-80,0,autox,0.0,Dynamic
+72,Coburg UAS,DE,31-80,0,autox,0.0,Dynamic
+73,Landshut UAS,DE,31-80,0,autox,10.0,Dynamic
+74,Gliwice TU,PL,31-80,0,autox,0.0,Dynamic
+75,Brussels VUB,BE,31-80,0,autox,10.0,Dynamic
+76,Warszawa UT,PL,31-80,0,autox,0.0,Dynamic
+77,Freiberg TU,DE,31-80,0,autox,0.0,Dynamic
+78,Helsinki UAS,FI,31-80,0,autox,0.0,Dynamic
+79,Bayreuth U,DE,31-80,0,autox,0.0,Dynamic
+79,Kaiserslautern RPTU,DE,31-80,0,autox,0.0,Dynamic
+1,Zürich ETH,CH,Top 10,0,endurance,250.0,Dynamic
+2,Aachen RWTH,DE,Top 10,0,endurance,235.94,Dynamic
+3,Trondheim NTNU,NO,Top 10,0,endurance,201.15,Dynamic
+4,Göteborg TU Chalmers,SE,Top 10,0,endurance,134.14,Dynamic
+5,Karlsruhe IT,DE,Top 10,0,endurance,94.47,Dynamic
+6,Dortmund TU,DE,Top 10,0,endurance,189.7,Dynamic
+7,Ravensburg DHBW,DE,Top 10,0,endurance,167.55,Dynamic
+8,Wolfenbüttel UAS Ostfalia,DE,Top 10,0,endurance,161.47,Dynamic
+9,Stuttgart U,DE,Top 10,0,endurance,211.48,Dynamic
+10,Milano PT,IT,Top 10,0,endurance,194.68,Dynamic
+11,Karlsruhe UAS,DE,11-30,0,endurance,197.17,Dynamic
+12,Esslingen UAS,DE,11-30,0,endurance,182.27,Dynamic
+13,München TU,DE,11-30,0,endurance,0.0,Dynamic
+14,Wien TU,AT,11-30,0,endurance,133.8,Dynamic
+15,Tallinn TU UAS,EE,11-30,0,endurance,0.0,Dynamic
+16,Lisboa IST,PT,11-30,0,endurance,0.0,Dynamic
+17,Prague CTU,CZ,11-30,0,endurance,0.0,Dynamic
+18,Amberg OTH,DE,11-30,0,endurance,106.91,Dynamic
+19,Wrocław TU,PL,11-30,0,endurance,0.0,Dynamic
+20,Eindhoven TU,NL,11-30,0,endurance,0.0,Dynamic
+21,Stuttgart DHBW,DE,11-30,0,endurance,0.0,Dynamic
+22,Delft TU,NL,11-30,0,endurance,0.0,Dynamic
+23,Barcelona ETSEIB,ES,11-30,0,endurance,0.0,Dynamic
+24,Bern UAS,CH,11-30,0,endurance,0.0,Dynamic
+25,München UAS,DE,11-30,0,endurance,0.0,Dynamic
+26,Lund U,SE,11-30,0,endurance,0.0,Dynamic
+27,Hamburg TU,DE,11-30,0,endurance,0.0,Dynamic
+28,Sevilla U,ES,11-30,0,endurance,0.0,Dynamic
+29,Berlin TU,DE,11-30,0,endurance,0.0,Dynamic
+30,Turin PT,IT,11-30,0,endurance,66.29,Dynamic
+31,Cluj-Napoca TU,RO,31-80,0,endurance,52.61,Dynamic
+32,Hsinchu NTHU,TW,31-80,0,endurance,0.0,Dynamic
+33,Plzen UWB,CZ,31-80,0,endurance,106.36,Dynamic
+34,Mittweida UAS,DE,31-80,0,endurance,61.11,Dynamic
+35,Hannover U,DE,31-80,0,endurance,32.26,Dynamic
+36,Linköping U,SE,31-80,0,endurance,76.67,Dynamic
+37,Bilbao EHU,ES,31-80,0,endurance,28.19,Dynamic
+38,Padova U,IT,31-80,0,endurance,0.0,Dynamic
+39,Budapest TU,HU,31-80,0,endurance,0.0,Dynamic
+40,Bath U,GB,31-80,0,endurance,41.9,Dynamic
+41,Hamburg UAS,DE,31-80,0,endurance,0.0,Dynamic
+42,Southampton U,GB,31-80,0,endurance,80.19,Dynamic
+43,Ulm UAS,DE,31-80,0,endurance,0.0,Dynamic
+44,San Sebastián TECNUN,ES,31-80,0,endurance,25.0,Dynamic
+45,Regensburg OTH,DE,31-80,0,endurance,30.72,Dynamic
+46,Nürnberg GSO UAS,DE,31-80,0,endurance,0.0,Dynamic
+47,Ghent U,BE,31-80,0,endurance,0.0,Dynamic
+48,Oxford Brookes U,GB,31-80,0,endurance,0.0,Dynamic
+49,Ingolstadt UAS,DE,31-80,1,endurance,60.22,Dynamic
+50,Pforzheim U,DE,31-80,0,endurance,0.0,Dynamic
+51,Athens TU,GR,31-80,0,endurance,0.0,Dynamic
+52,Konstanz UAS,DE,31-80,0,endurance,0.0,Dynamic
+53,Terrassa ESEIAAT,ES,31-80,0,endurance,29.96,Dynamic
+54,Dresden TU,DE,31-80,0,endurance,0.0,Dynamic
+55,Thessaloniki U,GR,31-80,0,endurance,0.0,Dynamic
+56,Osnabrück UAS,DE,31-80,0,endurance,0.0,Dynamic
+57,Diepholz UAS,DE,31-80,0,endurance,25.0,Dynamic
+58,Mannheim DHBW,DE,31-80,0,endurance,0.0,Dynamic
+59,Lübeck TH,DE,31-80,0,endurance,0.0,Dynamic
+60,Erlangen U,DE,31-80,0,endurance,0.0,Dynamic
+61,Mumbai Somaiya,IN,31-80,0,endurance,0.0,Dynamic
+62,Göttingen HAWK,DE,31-80,0,endurance,0.0,Dynamic
+63,Chennai IITM,IN,31-80,0,endurance,0.0,Dynamic
+64,Sion HES,CH,31-80,0,endurance,0.0,Dynamic
+65,Napoli UNINA,IT,31-80,0,endurance,0.0,Dynamic
+66,Bochum U,DE,31-80,0,endurance,0.0,Dynamic
+67,Trento U,IT,31-80,0,endurance,0.0,Dynamic
+68,Düsseldorf HSD,DE,31-80,0,endurance,0.0,Dynamic
+69,Braunschweig TU,DE,31-80,0,endurance,0.0,Dynamic
+70,Seattle U Washington,US,31-80,0,endurance,0.0,Dynamic
+71,Aalen HS,DE,31-80,0,endurance,0.0,Dynamic
+72,Coburg UAS,DE,31-80,0,endurance,0.0,Dynamic
+73,Landshut UAS,DE,31-80,0,endurance,0.0,Dynamic
+74,Gliwice TU,PL,31-80,0,endurance,0.0,Dynamic
+75,Brussels VUB,BE,31-80,0,endurance,0.0,Dynamic
+76,Warszawa UT,PL,31-80,0,endurance,0.0,Dynamic
+77,Freiberg TU,DE,31-80,0,endurance,0.0,Dynamic
+78,Helsinki UAS,FI,31-80,0,endurance,0.0,Dynamic
+79,Bayreuth U,DE,31-80,0,endurance,0.0,Dynamic
+79,Kaiserslautern RPTU,DE,31-80,0,endurance,0.0,Dynamic
+1,Zürich ETH,CH,Top 10,0,efficiency,57.96,Dynamic
+2,Aachen RWTH,DE,Top 10,0,efficiency,50.25,Dynamic
+3,Trondheim NTNU,NO,Top 10,0,efficiency,45.64,Dynamic
+4,Göteborg TU Chalmers,SE,Top 10,0,efficiency,75.0,Dynamic
+5,Karlsruhe IT,DE,Top 10,0,efficiency,55.71,Dynamic
+6,Dortmund TU,DE,Top 10,0,efficiency,43.04,Dynamic
+7,Ravensburg DHBW,DE,Top 10,0,efficiency,29.54,Dynamic
+8,Wolfenbüttel UAS Ostfalia,DE,Top 10,0,efficiency,56.45,Dynamic
+9,Stuttgart U,DE,Top 10,0,efficiency,54.23,Dynamic
+10,Milano PT,IT,Top 10,0,efficiency,40.44,Dynamic
+11,Karlsruhe UAS,DE,11-30,0,efficiency,61.97,Dynamic
+12,Esslingen UAS,DE,11-30,0,efficiency,49.73,Dynamic
+13,München TU,DE,11-30,0,efficiency,0.0,Dynamic
+14,Wien TU,AT,11-30,0,efficiency,63.72,Dynamic
+15,Tallinn TU UAS,EE,11-30,0,efficiency,0.0,Dynamic
+16,Lisboa IST,PT,11-30,0,efficiency,0.0,Dynamic
+17,Prague CTU,CZ,11-30,0,efficiency,0.0,Dynamic
+18,Amberg OTH,DE,11-30,0,efficiency,51.78,Dynamic
+19,Wrocław TU,PL,11-30,0,efficiency,0.0,Dynamic
+20,Eindhoven TU,NL,11-30,0,efficiency,0.0,Dynamic
+21,Stuttgart DHBW,DE,11-30,0,efficiency,0.0,Dynamic
+22,Delft TU,NL,11-30,0,efficiency,0.0,Dynamic
+23,Barcelona ETSEIB,ES,11-30,0,efficiency,0.0,Dynamic
+24,Bern UAS,CH,11-30,0,efficiency,0.0,Dynamic
+25,München UAS,DE,11-30,0,efficiency,0.0,Dynamic
+26,Lund U,SE,11-30,0,efficiency,0.0,Dynamic
+27,Hamburg TU,DE,11-30,0,efficiency,0.0,Dynamic
+28,Sevilla U,ES,11-30,0,efficiency,0.0,Dynamic
+29,Berlin TU,DE,11-30,0,efficiency,0.0,Dynamic
+30,Turin PT,IT,11-30,0,efficiency,26.34,Dynamic
+31,Cluj-Napoca TU,RO,31-80,0,efficiency,63.29,Dynamic
+32,Hsinchu NTHU,TW,31-80,0,efficiency,0.0,Dynamic
+33,Plzen UWB,CZ,31-80,0,efficiency,17.21,Dynamic
+34,Mittweida UAS,DE,31-80,0,efficiency,42.36,Dynamic
+35,Hannover U,DE,31-80,0,efficiency,17.21,Dynamic
+36,Linköping U,SE,31-80,0,efficiency,8.96,Dynamic
+37,Bilbao EHU,ES,31-80,0,efficiency,15.95,Dynamic
+38,Padova U,IT,31-80,0,efficiency,0.0,Dynamic
+39,Budapest TU,HU,31-80,0,efficiency,0.0,Dynamic
+40,Bath U,GB,31-80,0,efficiency,36.4,Dynamic
+41,Hamburg UAS,DE,31-80,0,efficiency,0.0,Dynamic
+42,Southampton U,GB,31-80,0,efficiency,18.22,Dynamic
+43,Ulm UAS,DE,31-80,0,efficiency,0.0,Dynamic
+44,San Sebastián TECNUN,ES,31-80,0,efficiency,14.32,Dynamic
+45,Regensburg OTH,DE,31-80,0,efficiency,9.54,Dynamic
+46,Nürnberg GSO UAS,DE,31-80,0,efficiency,0.0,Dynamic
+47,Ghent U,BE,31-80,0,efficiency,0.0,Dynamic
+48,Oxford Brookes U,GB,31-80,0,efficiency,0.0,Dynamic
+49,Ingolstadt UAS,DE,31-80,1,efficiency,6.97,Dynamic
+50,Pforzheim U,DE,31-80,0,efficiency,0.0,Dynamic
+51,Athens TU,GR,31-80,0,efficiency,0.0,Dynamic
+52,Konstanz UAS,DE,31-80,0,efficiency,0.0,Dynamic
+53,Terrassa ESEIAAT,ES,31-80,0,efficiency,13.2,Dynamic
+54,Dresden TU,DE,31-80,0,efficiency,0.0,Dynamic
+55,Thessaloniki U,GR,31-80,0,efficiency,0.0,Dynamic
+56,Osnabrück UAS,DE,31-80,0,efficiency,0.0,Dynamic
+57,Diepholz UAS,DE,31-80,0,efficiency,7.81,Dynamic
+58,Mannheim DHBW,DE,31-80,0,efficiency,0.0,Dynamic
+59,Lübeck TH,DE,31-80,0,efficiency,0.0,Dynamic
+60,Erlangen U,DE,31-80,0,efficiency,0.0,Dynamic
+61,Mumbai Somaiya,IN,31-80,0,efficiency,0.0,Dynamic
+62,Göttingen HAWK,DE,31-80,0,efficiency,0.0,Dynamic
+63,Chennai IITM,IN,31-80,0,efficiency,0.0,Dynamic
+64,Sion HES,CH,31-80,0,efficiency,0.0,Dynamic
+65,Napoli UNINA,IT,31-80,0,efficiency,0.0,Dynamic
+66,Bochum U,DE,31-80,0,efficiency,0.0,Dynamic
+67,Trento U,IT,31-80,0,efficiency,0.0,Dynamic
+68,Düsseldorf HSD,DE,31-80,0,efficiency,0.0,Dynamic
+69,Braunschweig TU,DE,31-80,0,efficiency,0.0,Dynamic
+70,Seattle U Washington,US,31-80,0,efficiency,0.0,Dynamic
+71,Aalen HS,DE,31-80,0,efficiency,0.0,Dynamic
+72,Coburg UAS,DE,31-80,0,efficiency,0.0,Dynamic
+73,Landshut UAS,DE,31-80,0,efficiency,0.0,Dynamic
+74,Gliwice TU,PL,31-80,0,efficiency,0.0,Dynamic
+75,Brussels VUB,BE,31-80,0,efficiency,0.0,Dynamic
+76,Warszawa UT,PL,31-80,0,efficiency,0.0,Dynamic
+77,Freiberg TU,DE,31-80,0,efficiency,0.0,Dynamic
+78,Helsinki UAS,FI,31-80,0,efficiency,0.0,Dynamic
+79,Bayreuth U,DE,31-80,0,efficiency,0.0,Dynamic
+79,Kaiserslautern RPTU,DE,31-80,0,efficiency,0.0,Dynamic
