@@ -17,7 +17,7 @@ The project explores which competition events are most associated with overall t
 
 - **Python:** Data processing and analysis using pandas and SciPy.
 - **SQL / SQLite:** Structured data storage and analytical queries.
-- **Power BI:** Dashboard development (build instructions and DAX measures included).
+- **Tableau:**Interactive data visulalization to understand the results.
 
 ## Repository Structure
 
