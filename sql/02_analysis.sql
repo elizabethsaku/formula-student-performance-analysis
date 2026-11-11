@@ -1,5 +1,4 @@
--- Table: results (one row per team, FSG 2026). Run via python/load_to_sqlite.py
--- or paste into DB Browser for SQLite / any SQL client after importing the CSV.
+-- Table: results (one row per team, FSG 2026). 
 
 -- Q1: reliability. Endurance finishers vs non-finishers
 SELECT finished_endurance, COUNT(*) AS teams, ROUND(AVG(total),1) AS avg_total, MAX(total) AS best
