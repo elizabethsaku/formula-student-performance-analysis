@@ -62,7 +62,7 @@ python python/load_to_sqlite.py
 - The analysis covers a single FSG event (2026), so findings may not generalise to other seasons.
 - Correlation does not establish causation.
 - Dynamic event points contribute to the overall score, so their relationship with final ranking is partly structural.
-- Results were transcribed from the official PDF; spot-checking against the original source is recommended.
+- Results were transcribed from the official PDF.
 
 ## Project Objective
 
